@@ -13,15 +13,15 @@ namespace ConsoleApplication25
             int a = 1;
             do
             {
-                Console.Write("Þifreyi gir :");
+                Console.Write("Ãžifreyi gir :");
                 sifre = Console.ReadLine();
-                if (sifre=="dilara123")
+                if (sifre=="melih123")
                 {
                  break;   
                 }
                 
             } while (a==1);
-            Console.Write("Programa hoþ geldiniz!!!");
+            Console.Write("Programa hoÃ¾ geldiniz!!!");
             Console.ReadKey();
         }
     }
